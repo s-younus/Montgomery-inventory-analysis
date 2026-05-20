@@ -111,5 +111,4 @@ The completed workbook summarizes fleet equipment inventory data using structure
 ## Author
 
 **Saeeda Younus**  
-Junior Data Analyst  
-NPower Canada
+
