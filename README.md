@@ -75,6 +75,14 @@ This Pivot Table displays:
 
 This view allows analysis of departments grouped under each equipment class. The table was collapsed so that only the top equipment class, **CUV**, remains expanded.
 
+
+![Project Preview](1.png)
+
+![Project Preview](2.png)
+
+![Project Preview](3.png)
+
+![Project Preview](4.png)
 ## Workbook Structure
 
 The workbook is arranged in the required order:
